@@ -1,0 +1,3 @@
+	Programming is fum when the work is done
+	if you want make your work also fun:
+			use Python!
